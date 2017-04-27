@@ -1,0 +1,50 @@
+/* line 1, ../sass/style.scss */
+body {
+  padding-top: 70px;
+}
+
+/* line 7, ../sass/style.scss */
+.panel-single-img .panel-img img {
+  max-height: 600px;
+}
+/* line 13, ../sass/style.scss */
+.panel-single-img .panel-body a i {
+  font-size: 2em;
+  padding: 0 5px;
+  color: #777;
+}
+/* line 20, ../sass/style.scss */
+.panel-single-img .panel-body a:hover i, .panel-single-img .panel-body a:focus i {
+  color: #333;
+}
+
+/* line 27, ../sass/style.scss */
+.btn-footer {
+  position: fixed;
+}
+
+/* line 31, ../sass/style.scss */
+.end-of-page {
+  margin-bottom: 40px;
+}
+
+/* line 38, ../sass/style.scss */
+.panel-img .panel-body a i {
+  font-size: 2em;
+  padding: 0 5px 15px;
+  color: #777;
+}
+/* line 44, ../sass/style.scss */
+.panel-img .panel-body p {
+  margin: 0;
+  padding-top: 3px;
+}
+
+/* line 51, ../sass/style.scss */
+.panel-comments {
+  border-top: 1px solid #ccc;
+}
+/* line 53, ../sass/style.scss */
+.panel-comments .form {
+  margin-top: 10px;
+}

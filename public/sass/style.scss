@@ -1,0 +1,56 @@
+body{
+  padding-top: 70px;
+}
+
+.panel-single-img{
+  .panel-img{
+    img{
+      max-height:600px;
+    }
+  }
+  .panel-body{
+    a{
+      i{
+        font-size: 2em;
+        padding: 0 5px;
+        color: #777;
+      }
+    }
+    a:hover, a:focus{
+      i{
+        color: #333;
+      }
+    }
+  }
+}
+
+.btn-footer{
+  position: fixed;
+}
+
+.end-of-page{
+  margin-bottom: 40px;
+}
+
+.panel-img{
+  .panel-body{
+    a{
+      i{
+        font-size: 2em;
+        padding: 0 5px 15px;
+        color: #777;
+      }
+    }
+    p{
+        margin: 0;
+        padding-top: 3px;
+    }
+  }
+}
+
+.panel-comments{
+  border-top: 1px solid #ccc;
+  .form{
+    margin-top: 10px;
+  }
+}
